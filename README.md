@@ -1,6 +1,8 @@
 # 块神小弟的破落窝
 ---
 
+<img width="208" alt="image" src="https://user-images.githubusercontent.com/8564681/160359320-fe043050-df60-4a88-a32d-2cb38b5eb6f4.png">
+
 ## 真主方块唯一的神。
 
 1. 块神提交代码前都会编译以及运行他的代码，目的仅仅是为了检验编译器以及链接器是否有问题。
