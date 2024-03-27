@@ -1,7 +1,7 @@
 # 块神小弟的破落窝
 ---
 
-<img width="208" alt="image" src="https://user-images.githubusercontent.com/8564681/160359320-fe043050-df60-4a88-a32d-2cb38b5eb6f4.png">
+<!-- <img width="208" alt="image" src="https://user-images.githubusercontent.com/8564681/160359320-fe043050-df60-4a88-a32d-2cb38b5eb6f4.png"> -->
 
 ## 真主方块唯一的神。
 
